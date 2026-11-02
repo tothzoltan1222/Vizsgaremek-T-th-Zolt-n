@@ -1,0 +1,27 @@
+WEBPROGRAMOZÁS – 20 FELADAT
+Név: (nincs megadva)
+Osztály: (nincs megadva)
+Eredmény: 11/20 (55%)
+Kitöltve: 14/20
+Dátum: 2026. 11. 02. 9:26:11
+
+1. HELYES | Válasz: 0
+2. HELYES | Válasz: 1
+3. HELYES | Válasz: img
+4. HELYES | Válasz: 1
+5. HELYES | Válasz: select
+6. HELYES | Válasz: 0
+7. HIBÁS | Válasz: (üres)
+8. HELYES | Válasz: 2
+9. HIBÁS | Válasz: (üres)
+10. HELYES | Válasz: 1
+11. HIBÁS | Válasz: text align
+12. HIBÁS | Válasz: 3
+13. HIBÁS | Válasz: (üres)
+14. HIBÁS | Válasz: 1
+15. HIBÁS | Válasz: (üres)
+16. HELYES | Válasz: 1
+17. HIBÁS | Válasz: (üres)
+18. HELYES | Válasz: 1
+19. HIBÁS | Válasz: (üres)
+20. HELYES | Válasz: 1
